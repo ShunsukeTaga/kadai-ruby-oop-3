@@ -14,4 +14,4 @@ suzuki.think(suzuki.hoby)
 # suzuki.think2
 sato.say
 sato.think(sato.hoby)
-sato.think2
+# sato.think2
